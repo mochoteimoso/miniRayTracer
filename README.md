@@ -19,12 +19,11 @@ This is a ray tracing project built with the MLX42 graphics library. It simulate
 
 ## Project Details
 - **Project Name:** miniRT miniRT_bonus
-- **Total Time Spent:** 68 days
 - **Total Lines of Code:** 4392
 - **Total Commits:** 254
 - **Programming Language:** C
 - **Libraries Used:** MLX42
-- **Team Members:** [Rychkov Iurii](https://github.com/RychkovIurii) and [Heidi Enbuska](https://github.com/mochoteimoso)
+- **Team Members:** Iurii (https://github.com/RychkovIurii) and Heidi (https://github.com/mochoteimoso)
 
 This project involved building a ray tracing program, which generates 3D scenes based on user input. The base functionality supports rendering spheres, planes, cones, and cylinders, with added bonus features for transparency, refraction, and reflection.
 
@@ -139,7 +138,7 @@ miniRT/
 
 ## Contributors
 
-### Rychkov Iurii:
+### Iurii:
 - Rendering Core: Implemented the core rendering system, including ray tracing logic, color calculations, and recursive ray handling for reflection and refraction.
 - Transparency and Refraction: Developed the transparency and refraction system to simulate realistic light bending through materials.
 - Reflection: Implemented reflection logic to create accurate mirror-like surfaces.
@@ -150,7 +149,7 @@ miniRT/
 - Keyboard Controls: Implemented keyboard interactions to allow dynamic scene control.
 - MLX Integration: Connected the rendering system to the MLX42 library for efficient visualization and user interaction.
 
-### Heidi Enbuska:
+### Heidi:
 - Parsing System: Led the development of the parsing logic, ensuring accurate interpretation of input scene descriptions for both mandatory and bonus features.
 - Parser for Bonus Scenes: Extended parsing capabilities to support additional scene elements introduced in the bonus part.
 - Cone and Cylinder Intersections: Implemented intersection logic for cones and cylinders, ensuring precise ray-object interactions.
